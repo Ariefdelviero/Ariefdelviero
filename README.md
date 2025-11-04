@@ -2,7 +2,8 @@
 
 Perkenalkan nama saya **Muhamad Arief Delviero**.
 
-Saya Lulusan Universitas Putra Indonesia YPTK Padang Jurusan Teknik Informatika
+Saya Lulusan S1 Universitas Putra Indonesia YPTK Padang Jurusan Teknik Informatika.
+Saya ahli dalam menguasai Ms.Office, HTML, CSS, PHP, Javascript.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ariefvero/)ku ya.
 
